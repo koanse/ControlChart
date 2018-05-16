@@ -1,0 +1,15 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ControlChart.Properties.Resources.resources
+obj\Debug\ControlChart.csproj.GenerateResource.Cache
+bin\Debug\ControlChart.exe
+bin\Debug\ControlChart.pdb
+bin\Debug\MathLib.dll
+bin\Debug\MathNet.Iridium.dll
+bin\Debug\muWrapper.dll
+bin\Debug\NPlot.dll
+obj\Debug\ControlChart.exe
+obj\Debug\ControlChart.pdb
+obj\Debug\ControlChart.GenForm.resources
+obj\Debug\ControlChart.MainForm.resources
+obj\Debug\ControlChart.PropForm.resources
+obj\Debug\ControlChart.DataForm.resources
